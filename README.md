@@ -2,7 +2,7 @@
 
 
 
-This repository provides the code for a Reinforcement Learning trading agent with its trading environment that works with both simulated and historical market data. This was inspired by [OpenAI Gym](https://gym.openai.com/) framework. 
+This repository provides the code for a Reinforcement Learning trading agent with its trading environment that works with both simulated and historical market data. 
 
 This repository has the Keras implementation of
 - [Deep Q-Network (DQN)](https://deepmind.com/research/publications/human-level-control-through-deep-reinforcement-learning)
