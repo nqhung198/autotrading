@@ -12,7 +12,7 @@ This repository has the Keras implementation of
 [Code for agents](/Agent/)
 
 
-![gif](images/fe800gif.gif)
+![gif](https://github.com/nqhung198/autotrading/blob/master/fe800gif.gif)
 
 
 ### Requirements
