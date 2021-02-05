@@ -1,4 +1,4 @@
-# Autotrading based DDDQNN
+# Autotrading based Reinforcement Learning
 
 
 
