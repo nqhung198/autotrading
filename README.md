@@ -26,6 +26,12 @@ This repository has the Keras implementation of
 - ADX and RSI technical indicator and extensible for more
 - Historical stock market data ingestion through CSV
 
+# Workflow
+![image](https://github.com/nqhung198/autotrading/blob/master/worflow.png)
+
+# Architecture
+![image](https://github.com/nqhung198/autotrading/blob/master/class_diagram.png)
+
 ## Dataset
 ### Raw data
 Raw data is data we put in files by filesname para.
